@@ -1,0 +1,5 @@
+{
+  "name": "Local Link",
+  "description": "Offline-capable, single-file P2P text sharing tool.",
+  "requestFramePermissions": []
+}
