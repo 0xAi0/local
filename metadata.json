@@ -1,6 +1,6 @@
 {
   "name": "SecureSync 256",
-  "description": "Military-grade encrypted P2P text sharing with magic links.",
+  "description": "One-click secure P2P sharing using automated signaling.",
   "requestFramePermissions": [
     "camera",
     "microphone"
