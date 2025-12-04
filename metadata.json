@@ -1,5 +1,8 @@
 {
-  "name": "Local Link",
-  "description": "Offline-capable, single-file P2P text sharing tool.",
-  "requestFramePermissions": []
+  "name": "SecureSync 256",
+  "description": "Military-grade encrypted P2P text sharing with magic links.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
 }
